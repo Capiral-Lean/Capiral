@@ -1,0 +1,19 @@
+.a li
+{
+list-style-type: none;
+padding: 20px;
+font-size: 20px;
+text-align: center;}
+.a
+{
+   display: flex;
+   margin-left: 40px;
+}
+img
+{
+    padding:50px;
+}
+body
+{
+    background-color: aquamarine;
+}

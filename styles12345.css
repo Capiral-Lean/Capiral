@@ -1,0 +1,10 @@
+body
+{
+   display:inline-table;
+   margin-left: 50px;
+   background-color: aquamarine;
+
+}
+img{
+    display: flex;
+}
